@@ -22,7 +22,7 @@ Run the `build.sh` file in this directory.
 
 Run the `run.sh` file in this directory.  
 
-This command should start a blender and a tmux session.  Use ^b-<number>
+This command should start a blender and a tmux session.  Use ^b-#
 to move around between virtual terminals. 
 
 terminal 0 produces a lot of noise.

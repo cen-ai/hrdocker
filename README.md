@@ -9,8 +9,10 @@ This has only been tested using Ubuntu 18.04.1 LTS
 ## Installation
 
 from a terminal window, 
+```
 $ git clone https://github.com/cen-ai/hrdocker.git
 $ cd hrdocker
+'''
 
 ## Building
 

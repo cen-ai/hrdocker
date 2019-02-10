@@ -12,7 +12,7 @@ from a terminal window,
 ```
 $ git clone https://github.com/cen-ai/hrdocker.git
 $ cd hrdocker
-'''
+```
 
 ## Building
 
